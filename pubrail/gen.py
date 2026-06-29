@@ -38,7 +38,7 @@ def main():
     outputs = [
     (os.path.join(script_dir, "tv.png"),     32, 19),
     (os.path.join(script_dir, "big_tv.png"), 42, 28),
-    (os.path.join(script_dir, "box_tv.png"), 12,  8),
+    #(os.path.join(script_dir, "box_tv.png"), 12,  8),
     ]
 
     for filename, rw, rh in outputs:

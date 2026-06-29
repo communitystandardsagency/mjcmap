@@ -8,4 +8,4 @@ Waterframes Big Television:
 42px x 28px
 
 Waterframes Box Television:
-12px x 8px
+12px x 8px (Same as big)
